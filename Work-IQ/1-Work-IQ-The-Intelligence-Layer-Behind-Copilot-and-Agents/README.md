@@ -25,7 +25,7 @@ A visual summary of key takeaways by Tomomi Imura, showing what Work IQ is and h
 
 ![Doodle summary Episode 1](../../images/work-iq/E1-recap.png)
 
-## � Try the Cookbook
+## � Try the Lab
 
 Ready to get hands-on? Head to the [Episode 1 lab](./lab/) for prerequisites, deployment instructions, and a step-by-step guidance.
 

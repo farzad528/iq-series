@@ -8,7 +8,6 @@ This folder contains the hands-on lab for Episode 3 of The Work IQ Series.
 - **GitHub Copilot CLI** installed
 - **Work IQ** enabled in your target tenant with **Administrative consent** for the **Work IQ application**
 - **Work IQ CLI** installed
-- **Copilot Studio** available and activated in your tenant
 
 ## 🛠️ Installing GitHub Copilot CLI
 
@@ -221,8 +220,9 @@ For more information, see the [Work IQ CLI documentation](https://learn.microsof
 
 The [**Work IQ Lab for Episode 03**](./work-iq-lab03.md) walks you through the basic capabilities of Work IQ, step by step:
 
-1. Asking a prompt via GitHub Copilot CLI to rely on Work IQ MCP
-1. Using the Work IQ MCP server from an Agent in Microsoft Copilot Studio
+1. Asking a basic prompt via GitHub Copilot CLI to rely on Work IQ MCP
+1. Asking more advanced prompts to Work IQ
+1. Improving productivity in GitHub Copilot CLI with Work IQ
 
 ## Additional Resources
 

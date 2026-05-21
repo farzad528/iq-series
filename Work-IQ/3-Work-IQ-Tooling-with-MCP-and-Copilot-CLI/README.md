@@ -24,7 +24,7 @@ A visual summary of key takeaways by Tomomi Imura, showing how Work IQ CLI and M
 
 ![Doodle summary Episode 3](../../images/work-iq/E3-recap.png)
 
-## � Try the Cookbook
+## � Try the Lab
 
 Ready to get hands-on? Head to the [Episode 3 lab](./lab/) for prerequisites, deployment instructions, and a step-by-step guidance.
 

@@ -25,7 +25,7 @@ A visual summary of key takeaways by Tomomi Imura, showing how A2A fits in the W
 
 ![Doodle summary Episode 2](../../images/work-iq/E2-recap.png)
 
-## � Try the Cookbook
+## � Try the Lab
 
 Ready to get hands-on? Head to the [Episode 2 lab](./lab/) for prerequisites, deployment instructions, and a step-by-step guidance.
 

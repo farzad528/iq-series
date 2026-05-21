@@ -45,7 +45,7 @@ Now, run the following prompt:
 Who am I? What is my role in the company?
 ```
 
-GitHub Copilot will analyze your prompt and determine that the ask_work_iq MCP tool is needed to provide you with an answer. As such, it will ask your consent to use the tool. You can say **1. Yes** to consent it just once, or **2. Yes, and don't ask again for tool "ask_work_iq" from "workiq" in this repo** if you want to consent it from now on. Of course, you can also choose **3. No** and avoid using Work IQ.
+GitHub Copilot will analyze your prompt and determine that the **ask_work_iq** MCP tool is needed to provide you with an answer. As such, it will ask your consent to use the tool. You can say **1. Yes** to consent it just once, or **2. Yes, and don't ask again for tool "ask_work_iq" from "workiq" in this repo** if you want to consent it from now on. Of course, you can also choose **3. No** and avoid using Work IQ.
 
 If you consented, GitHub Copilot will start processing your request and will talk with the Work IQ MCP server to extract to requested information.
 
